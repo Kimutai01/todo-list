@@ -4,6 +4,8 @@
 
 It is a website which you can add tasks and mark them as completed
 
+![screenshot](./todo.png)
+
 ## Built With
 
 - HTML5
