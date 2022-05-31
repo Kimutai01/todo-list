@@ -1,5 +1,7 @@
 import './main.css';
 
+const divEl = document.querySelector('.task-ul');
+
 const todos = [
   {
     description: 'Creating a frontend project',
@@ -24,7 +26,6 @@ const todos = [
 ];
 
 todos.forEach((todo) => {
-  const divEl = document.querySelector('.task-ul');
   const div = document.createElement('div');
   div.classList.add('todo-div');
   div.innerHTML = `
