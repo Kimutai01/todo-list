@@ -4,6 +4,10 @@
 
 It is a website which you can add tasks and mark them as completed
 
+## Live Demo
+
+[Live Demo Link](https://kimutai01.github.io/todo-list/)
+
 ![screenshot](./todo.png)
 
 ## Built With
