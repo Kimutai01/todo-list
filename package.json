@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,11 +15,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://Kimutai01.github.io/todo-list",
   "bugs": {
     "url": "https://github.com/Kimutai01/todo-list/issues"
   },
-  "homepage": "https://github.com/Kimutai01/todo-list#readme",
+  "homepage": "https://Kimutai01.github.io/todo-list",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
